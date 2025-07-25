@@ -1,13 +1,39 @@
-## Hi there 👋
+<h1 align="center"><b>Hi , I'm Francisco Aragón </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
 
-<!--
-**FranciscoRAragon/FranciscoRAragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a computer systems engineering student, with a technical background in both mechatronics and IT. I have completed my high school as an IT technician and I am about to finish a higher technical degree in mechatronics, pending only the final internship presentation. I am passionate about technology and programming, and I enjoy learning and building creative and efficient solutions.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+  - C#
+  - SQL
+
+- 👉 Next on the list ...
+  - Lua
+
+- 📫 Reach out to me at: <a href="franciscoraragon@gmail.com">franciscoraragon@gmail.com</a>
+
+
+## My Skills Include
+
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src= "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src= "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+ 
+</span>
+
+<h4> Other Tools and Technologies </h4>
+
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+  
+  
+
+</span>
+
+
