@@ -1,7 +1,8 @@
 <h1 align="center"><b>Hi , I'm Francisco Aragón </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 
-I am a computer systems engineering student, with a technical background in both mechatronics and IT. I have completed my high school as an IT technician and I am about to finish a higher technical degree in mechatronics, pending only the final internship presentation. I am passionate about technology and programming, and I enjoy learning and building creative and efficient solutions.
+I am a third-year computer systems engineering student, with a technical background in both mechatronics and IT. I completed high school as an IT technician and I am about to finish a higher technical degree in mechatronics, pending only the final internship presentation. I am passionate about technology and programming, and I enjoy learning and building creative and efficient solutions.
+
 
 - 🌱 I’m currently learning ...
   - C#
