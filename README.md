@@ -4,12 +4,14 @@
 I am a third-year computer systems engineering student, with a technical background in both mechatronics and IT. I completed high school as an IT technician and I am about to finish a higher technical degree in mechatronics, pending only the final internship presentation. I am passionate about technology and programming, and I enjoy learning and building creative and efficient solutions.
 
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning
   - C#
   - SQL
-
-- 👉 Next on the list ...
+- 👉 Next on the list
   - Lua
+  
+- 🔨 Currently working on
+  - An app to manage and update addons for a video game
 
 - 📫 Reach out to me at: <a href="franciscoraragon@gmail.com">franciscoraragon@gmail.com</a>
 
