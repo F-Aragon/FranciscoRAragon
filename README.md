@@ -12,8 +12,11 @@ I am a third-year computer systems engineering student, with a technical backgro
   - Lua
   
 - 🔨 Currently working on
-  - An app to manage and update addons for a video game
-
+  - My own Portfolio webpage. 
+  
+- 😀 Projects done
+  - CPK WoW Tools: Desktop app designed to simplify addon and backup management for World of Warcraft.
+    
 - 📫 Reach out to me at: <a href="franciscoraragon@gmail.com">franciscoraragon@gmail.com</a>
 
 
