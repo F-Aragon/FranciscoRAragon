@@ -6,7 +6,7 @@ I am a third-year computer systems engineering student, with a technical backgro
 
 - 🌱 I’m currently learning
   - C#
-  - Blazor
+  - React
   - SQL
 - 👉 Next on the list
   - Lua
